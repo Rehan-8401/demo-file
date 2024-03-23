@@ -1,2 +1,2 @@
 # demo-file
-this is demofile 
+this is demofile.
